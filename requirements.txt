@@ -1,1 +1,2 @@
 azure-functions
+django~=3.0.0
